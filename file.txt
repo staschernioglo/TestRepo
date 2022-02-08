@@ -2,3 +2,4 @@ Hello, world!
 New line text!!
 One more change in file!!
 Git fetch checking
+Go to the conflicts
