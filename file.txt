@@ -3,3 +3,4 @@ New line text!!
 One more change in file!!
 Git fetch checking
 Let's go to conflicts
+What are you doing, man?
