@@ -4,3 +4,4 @@ One more change in file!!
 Git fetch checking
 Let's go to conflicts
 What are you doing, man?
+Attempt number 2
