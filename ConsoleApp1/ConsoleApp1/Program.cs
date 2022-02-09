@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Master branch");
+            Console.WriteLine("New line 1");
         }
     }
 }
