@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hi, notebook!");
             Console.WriteLine("Second change!!");
+            Console.WriteLine("One more change in file");
         }
     }
 }
