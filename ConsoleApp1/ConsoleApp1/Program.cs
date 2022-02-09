@@ -8,8 +8,6 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Master branch");
             Console.WriteLine("New line 2");
-            Console.WriteLine("One more change");
-
         }
     }
 }
