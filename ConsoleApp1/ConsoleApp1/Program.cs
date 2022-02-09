@@ -6,10 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hi, notebook!");
-            Console.WriteLine("Second change!!");
-            Console.WriteLine("One more change in file");
+            Console.WriteLine("New vetka");
         }
     }
 }
